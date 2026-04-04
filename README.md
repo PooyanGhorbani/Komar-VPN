@@ -20,7 +20,7 @@ Plain text
 └─ logs/                  # فایل‌های لاگ
 ⚙️ نصب سریع
 Bash
-wget https://github.com/username/KomarVPN/raw/main/komarvpn_installer.sh
+wget https://github.com/PooyanGhorbani/KomarVPN/raw/main/komarvpn_installer.sh
 chmod +x komarvpn_installer.sh
 ./komarvpn_installer.sh
 🔑 هنگام نصب اطلاعات زیر را وارد کنید:
